@@ -19,4 +19,4 @@ The IK switch works only if 2 or 4 objects are selected. It is effective when th
 
 The FK switch works only if 3 or 6 objects are selected. It is effective when selected in the parent-to-child hierarchy order: Shoulder_ctrl -> Elbow_ctrl -> Wrist_ctrl / Hip_ctrl -> Knee_ctrl -> Ankle_ctrl.
 
-Happy animating :)
+Good animating :)
