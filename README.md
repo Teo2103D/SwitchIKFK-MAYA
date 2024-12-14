@@ -21,3 +21,5 @@ The IK switch works only if 2 or 4 IK controls are selected. It is effective whe
 The FK switch works only if 3 or 6 FK controls are selected. It is effective when selected in the parent-to-child hierarchy order: Shoulder_ctrl -> Elbow_ctrl -> Wrist_ctrl / Hip_ctrl -> Knee_ctrl -> Ankle_ctrl.
 
 Good animating :)
+
+[link to ytb video](https://youtu.be/vRHRfIdJV6E)
