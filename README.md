@@ -1,3 +1,13 @@
+This script only works with human or humanoid rigs that have two legs and two arms.
+
+Update: <br>
+The names of the locators are based on the highest group name in your hierarchy, so make sure to rename your group correctly before creating the locators. <br>
+Example: Jimmy_rig -> Arm_FK_Jimmy_rig_loc_R
+
+Now, the IK/FK switch works with multiple rigs at the same time, and it also works if the rigs are imported as references. <br>
+A window opens asking which locator names you want to switch. <br>
+Example: In the scene, there are Arm_FK_PKPK_loc_R, Arm_FK_XUXU1_loc_R, Arm_FK_XUXU2_loc_R, Arm_FK_BABA1_loc_R, and Arm_FK_BABA2_loc_R. The window will allow you to choose between PKPK, XUXU, or BABA.
+
 How it works: <br>
 Works with a rig that has 3 IK FK SK joint chains.
 
