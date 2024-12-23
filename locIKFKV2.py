@@ -1,5 +1,7 @@
 import maya.cmds as cmds
 
+#By Teo MINANA
+
 def create_group_based_on_selection():
     # List of words for each category
     arm_list = ["wrist", "hand", "elbow", "arm", "shoulder", "clavicle"]
@@ -112,3 +114,5 @@ def create_locators_with_hierarchy_based_names(selected_objects, is_arm, is_leg,
 
 # Execute the function
 create_group_based_on_selection()
+
+#By Teo MINANA
