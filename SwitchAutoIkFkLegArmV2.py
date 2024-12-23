@@ -1,6 +1,8 @@
 import maya.cmds as cmds
 import re
 
+#By Teo MINANA
+
 # Function to detect unique locator names and display a window
 def detect_unique_locator_names():
     locators = cmds.ls(type="locator")
@@ -202,3 +204,5 @@ def match_transforms_to_locators(selected_group):
 
 # Execute the detection of unique locator names
 detect_unique_locator_names()
+
+#By Teo MINANA
