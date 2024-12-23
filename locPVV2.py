@@ -1,5 +1,7 @@
 import maya.cmds as cmds
 
+#By Teo MINANA
+
 def create_three_groups_with_constraints_and_prefix():
     # List of keywords for arms and legs
     arm_list = ["wrist", "hand", "elbow", "arm", "shoulder", "clavicle"]
@@ -155,3 +157,5 @@ def create_three_groups_with_constraints_and_prefix():
 
 # Execute the function
 create_three_groups_with_constraints_and_prefix()
+
+#By Teo MINANA
